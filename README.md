@@ -9,6 +9,7 @@ ninin
 nhi
 jimim
 nnn
+ninij
 hhiz
 jhu
 hkjjz

@@ -27,8 +27,7 @@ hkjjz
 jsj
  x smnd
 ninj
-snxmns
- jna
+
 
 * Hierarchical Markdown headings (`#`, `##`, `###`)
 * Concise bullet-point notes

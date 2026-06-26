@@ -5,8 +5,7 @@ nanina
 nana
 huhuh
 jajz
-hhih
-ijij
+
 
 
 

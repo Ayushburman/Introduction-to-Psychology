@@ -31,8 +31,6 @@ snxmns
  jna
 jncsn
  scjd
-nania
-mixsjax
 * Hierarchical Markdown headings (`#`, `##`, `###`)
 * Concise bullet-point notes
 * Study-friendly formatting

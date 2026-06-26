@@ -1,9 +1,4 @@
 Sure. I'll convert the uploaded **Psychology — Complete Guide & Roadmap** into a clean, structured **README.md-style notes file** with:
-bshbdjs
-nhah
-
-
-
 * Hierarchical Markdown headings (`#`, `##`, `###`)
 * Concise bullet-point notes
 * Study-friendly formatting

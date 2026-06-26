@@ -6,6 +6,7 @@ nana
 jajz
 hhih
 ninin
+jimim
 nnn
 hhiz
 hkjjz

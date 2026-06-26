@@ -14,9 +14,7 @@ nhi
 jhhu
 jhuh
 uhuh
-inij
-jimim
-jnhu
+
 
 
 

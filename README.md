@@ -9,8 +9,6 @@ hhih
 ijij
 iiui
 niji
-ninin
-nhi
 
 
 

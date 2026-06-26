@@ -2,7 +2,7 @@ Sure. I'll convert the uploaded **Psychology — Complete Guide & Roadmap** into
 bshbdjs
 nhah
 nanina
- kknskn
+ x smnd
 ninj
  scjd
 nania

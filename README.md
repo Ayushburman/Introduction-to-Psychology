@@ -17,9 +17,7 @@ uhuh
 inij
 jimim
 jnhu
-huhu
-nnn
-ninij
+
 
 
 

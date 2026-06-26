@@ -6,6 +6,7 @@ nana
 huhuh
 jajz
 hhih
+niji
 ninin
 nhi
 jhhu

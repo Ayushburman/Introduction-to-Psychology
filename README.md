@@ -25,8 +25,7 @@ nh
 jhu
 hkjjz
 jsj
- x smnd
-ninj
+ 
 
 
 * Hierarchical Markdown headings (`#`, `##`, `###`)

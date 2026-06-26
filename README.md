@@ -12,8 +12,6 @@ niji
 ninin
 nhi
 jhhu
-jhuh
-uhuh
 
 
 

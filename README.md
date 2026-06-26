@@ -7,8 +7,6 @@ huhuh
 jajz
 hhih
 ijij
-iiui
-niji
 
 
 

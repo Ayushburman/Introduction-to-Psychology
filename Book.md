@@ -1,7 +1,4 @@
 
-drd
-ded
-fdfd
 drdr
 ctft
 fdfd

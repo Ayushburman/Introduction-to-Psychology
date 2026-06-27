@@ -1,7 +1,4 @@
 
-xds
-crc
-hghg
 hghgnnnni
 nh
 uhuh

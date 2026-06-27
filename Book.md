@@ -1,5 +1,4 @@
 
-drdr
 ctft
 fdfd
 fftfgz

@@ -1,6 +1,4 @@
 
-hhgu
-fdffr
 ftf
 bhgh
 fdff

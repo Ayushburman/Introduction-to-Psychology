@@ -1,6 +1,4 @@
 
-uhuh
-hftf
 vgvg
 jhj
 hghg

@@ -1,4 +1,3 @@
 
-fftfgz
-ghgh
+ghg
 tftf

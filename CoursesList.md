@@ -19,6 +19,7 @@ If you want a psychology education comparable to a university curriculum, here's
 * University of Michigan – Positive Psychology
 * University of Pennsylvania – Positive Psychology Specialization
 
+
 ---
 
 ## 3. edX

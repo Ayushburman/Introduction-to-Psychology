@@ -52,6 +52,7 @@ If you want a psychology education comparable to a university curriculum, here's
 
 * Khan Academy – Psychology basics
 
+
 ---
 
 ## 5. Neuroscience

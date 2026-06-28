@@ -8,7 +8,7 @@ If you want a psychology education comparable to a university curriculum, here's
 * Stanford University – Human Behavioral Biology by Robert Sapolsky ⭐⭐⭐
 * Harvard University – Moral Psychology by Joshua Greene
 * Princeton University – Psychology lectures
-* 
+  
 ---
 
 ## 2. Coursera (Professional Certificates)

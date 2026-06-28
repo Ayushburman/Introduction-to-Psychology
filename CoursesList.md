@@ -110,6 +110,7 @@ If you want a psychology education comparable to a university curriculum, here's
 
 ---
 
+
 ## 12. Great Psychology Channels
 
 * Crash Course

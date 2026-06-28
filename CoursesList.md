@@ -1,7 +1,4 @@
 
-iuiu
-ihih
-jijij
 ijijji
 koknug
 hghghg

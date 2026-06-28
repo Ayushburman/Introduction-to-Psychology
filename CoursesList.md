@@ -1,7 +1,4 @@
 
-hgugjh
-gfhgjh
-uiuin
 ihuhj
 mikij
 jisj

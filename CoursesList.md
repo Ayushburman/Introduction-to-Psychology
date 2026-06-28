@@ -108,6 +108,7 @@ If you want a psychology education comparable to a university curriculum, here's
 * Elliot Aronson
 
 ---
+
 ## 12. Great Psychology Channels
 
 * Crash Course

@@ -1,7 +1,4 @@
 
-ihuhj
-mikij
-jisj
 iuiu
 ihih
 jijij

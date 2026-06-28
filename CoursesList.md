@@ -4,7 +4,6 @@ adgsh
 bhbjb
 hgugjh
 gfhgjh
-huyjh
 uiuin
 ihuhj
 mikij

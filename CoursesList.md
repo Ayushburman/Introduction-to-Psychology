@@ -9,8 +9,7 @@ uiuin
 ihuhj
 mikij
 jisj
-iuiujn
-jiji
+iuiu
 ihih
 jijij
 ijijji

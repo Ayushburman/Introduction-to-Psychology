@@ -9,6 +9,7 @@ If you want a psychology education comparable to a university curriculum, here's
 * Harvard University – Moral Psychology by Joshua Greene
 * Princeton University – Psychology lectures
 
+
 ---
 
 ## 2. Coursera (Professional Certificates)

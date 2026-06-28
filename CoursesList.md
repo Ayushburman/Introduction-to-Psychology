@@ -22,8 +22,3 @@ jij8
 mijij
 hghv i
 ugyghbj
-miji
-niji
-gggy
-jiji
-tryt

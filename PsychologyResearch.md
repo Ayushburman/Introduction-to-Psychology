@@ -5,11 +5,7 @@ skdimedi
 
 jisjdijd
 
-msidjsod
-
-mkcemkd
-
-mcknsid
+msidjso
 
 kncknsd
 iisjdijs

@@ -1,9 +1,4 @@
 
-
-
-kncknsd
-iisjdijs
-ijdisjd
 skcmkdmd
 msmkdmo
 kdmmd

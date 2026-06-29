@@ -1,12 +1,4 @@
 ndjns
-kkss
-
-
-sodksw
-
-sdmdhsdjh
-
-knkndsk
 
 ncddks
 

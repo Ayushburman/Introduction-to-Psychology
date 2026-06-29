@@ -1,11 +1,5 @@
 
-idjiekd
 
-skdimedi
-
-jisjdijd
-
-msidjso
 
 kncknsd
 iisjdijs

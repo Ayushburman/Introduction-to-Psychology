@@ -1,6 +1,3 @@
-ndjns
-
-ncddks
 
 mskmsid
 

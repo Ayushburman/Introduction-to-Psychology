@@ -1,8 +1,4 @@
 
-kmsknds
-
-ismdoksd
-
 idjiekd
 
 skdimedi

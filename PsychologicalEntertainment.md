@@ -6,5 +6,3 @@ jhinjh
 jujuj
 jhjhjj
 jhhiji
-
- kkjo

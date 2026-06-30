@@ -14,5 +14,4 @@ niji
  jnn
  kkjoj
  bhhuh
- ninih
 nijij

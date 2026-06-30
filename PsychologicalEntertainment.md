@@ -12,6 +12,5 @@ jhjhjj
 jhhiji
 niji
  jnn
- kkjoj
- bhhuh
+ kkjo
 nijij

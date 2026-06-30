@@ -13,8 +13,7 @@ jujuj
 jhjhjj
 jhhiji
 niji
- jnnj
- knij
+ jnn
  kkjoj
  huhuhu
  bhhuh

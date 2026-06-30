@@ -3,8 +3,7 @@ strdyrd
 hjhuh
 g
 jhhuh
-uhu
-vyg6y
+u
 ihiji
 jhinjh
 jujuj

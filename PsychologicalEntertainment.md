@@ -37,7 +37,7 @@ These are the ones psychologists, philosophers, filmmakers, and neuroscience ent
 
 ---
 
-# 🤯 Mind-Bending Psychology
+# Mind-Bending Psychology
 
 * Inception
 * Coherence

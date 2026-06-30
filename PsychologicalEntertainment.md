@@ -1,9 +1,6 @@
 
 strdyrd
-hjhuh
-g
-jhhuh
-u
+hjhu
 ihiji
 jhinjh
 jujuj

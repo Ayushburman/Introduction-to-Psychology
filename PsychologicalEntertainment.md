@@ -15,7 +15,6 @@ jhhiji
 niji
  jnn
  kkjoj
- huhuhu
  bhhuh
  ninih
 nijij

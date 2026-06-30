@@ -24,7 +24,7 @@ These are the ones psychologists, philosophers, filmmakers, and neuroscience ent
 
 ---
 
-# 🧩 Dark Psychology & Manipulation
+# Dark Psychology & Manipulation
 
 * Nightcrawler
 * Gone Girl

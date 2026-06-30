@@ -1,6 +1,7 @@
 
 If you're looking for psychology that genuinely changes how you think about people, yourself, and the mind—not just "crazy plot twists"—here's a curated list.
 
+
 ---
 
 # 🧠 Tier S+ (Life-Changing Masterpieces)

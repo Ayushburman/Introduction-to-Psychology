@@ -1,8 +1,7 @@
 
 strdyrd
 hjhuh
-gfgfgg
-hggh
+g
 hghg6
 hhjh
 jhhuh

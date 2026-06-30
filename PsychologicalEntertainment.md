@@ -2,8 +2,6 @@
 strdyrd
 hjhuh
 g
-hghg6
-hhjh
 jhhuh
 uhu
 vyg6y

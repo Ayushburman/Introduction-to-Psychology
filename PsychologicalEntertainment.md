@@ -97,7 +97,7 @@ These are the ones psychologists, philosophers, filmmakers, and neuroscience ent
 
 ---
 
-# 🌍 Best Psychological Web Series
+# Best Psychological Web Series
 
 * Black Mirror
 * Dark

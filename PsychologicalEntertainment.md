@@ -122,7 +122,7 @@ These are the ones psychologists, philosophers, filmmakers, and neuroscience ent
 
 ---
 
-# 🎓 Must-Watch Psychology Lectures
+# Must-Watch Psychology Lectures
 
 * Jordan Peterson — Personality, mythology, meaning
 * Robert Sapolsky — Human behavior and neuroscience

@@ -9,4 +9,3 @@ jhhiji
 niji
  jnn
  kkjo
-nijij

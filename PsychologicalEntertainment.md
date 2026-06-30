@@ -7,7 +7,7 @@ If you're looking for psychology that genuinely changes how you think about peop
 
 ---
 
-# 🧠 Tier S+ (Life-Changing Masterpieces)
+# Tier S+ (Life-Changing Masterpieces)
 
 These are the ones psychologists, philosophers, filmmakers, and neuroscience enthusiasts discuss repeatedly.
 

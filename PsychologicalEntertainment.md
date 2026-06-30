@@ -8,6 +8,7 @@ If you're looking for psychology that genuinely changes how you think about peop
 
 These are the ones psychologists, philosophers, filmmakers, and neuroscience enthusiasts discuss repeatedly.
 
+
 | Title                                 | Type  | Focus                                            |
 | ------------------------------------- | ----- | ------------------------------------------------ |
 | Fight Club                            | Movie | Identity, consumerism, dissociation, masculinity |

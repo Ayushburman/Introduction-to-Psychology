@@ -5,8 +5,7 @@ g
 hghg6
 hhjh
 jhhuh
-uhuh
-juhuhu
+uhu
 vyg6y
 ihiji
 jhinjh

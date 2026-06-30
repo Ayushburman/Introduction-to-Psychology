@@ -70,7 +70,7 @@ These are the ones psychologists, philosophers, filmmakers, and neuroscience ent
 
 ---
 
-# 📺 Best Psychology TV Shows
+# Best Psychology TV Shows
 
 ![Image](https://images.openai.com/static-rsc-4/PXefaFOUE1wlJt2crYYagO4exAjnB329qqg3DZYKSUYk1vof4zHVjmZp2CY5teDTPfrNFXawEPz2uIPcZ5anvTMFiOAfzQEVmBI44XU6eswBUPKDTVFiK6secatY1lNkZsutRl0gPkOASEq0-fbhPvVMYviIJ9ov9Kh4oC4mkfWezV2QtvolCwR7Z3Gy0_Df?purpose=fullsize)
 

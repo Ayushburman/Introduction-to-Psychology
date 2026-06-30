@@ -49,7 +49,7 @@ These are the ones psychologists, philosophers, filmmakers, and neuroscience ent
 
 ---
 
-# 🧠 Human Behaviour & Social Psychology
+#  Human Behaviour & Social Psychology
 
 * 12 Angry Men
 * The Stanford Prison Experiment
@@ -60,7 +60,7 @@ These are the ones psychologists, philosophers, filmmakers, and neuroscience ent
 
 ---
 
-# 🩺 Mental Disorders
+# Mental Disorders
 
 * Girl, Interrupted
 * Silver Linings Playbook

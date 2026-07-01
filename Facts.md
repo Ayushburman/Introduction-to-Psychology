@@ -6,7 +6,7 @@ such as attractiveness or confidence) can make someone seem  Anchoring Effect
 8. 
 The first number or idea you hear influences later judgments, even if it's arbitr10. People react differently depending on how the same information is presented.
 11. Mere-Exposure Eff
-Repeated exposure to something often makes people like it more.
+Repeated exposure to something often makes p
 
 12. Social Proof
 

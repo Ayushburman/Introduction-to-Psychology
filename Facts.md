@@ -5,9 +5,7 @@ One positive quality
 such as attractiveness or confidence) can make someone seem smarter, kinder, or more competent.
 7. Anchoring Effect
 8. 
-The first number or idea you hear influences later judgments, even if it's arbitrary.
-
-10. Framing Effect
+The first number or idea you hear influences later judgments, even if it's arbitr10. Framing Effect
 
 People react differently depending on how the same information is presented.
 11. Mere-Exposure Effect

@@ -13,6 +13,7 @@ One positive quality (such as attractiveness or confidence) can make someone see
 The first number or idea you hear influences later judgments, even if it's arbitrary.
 
 10. Framing Effect
+
 People react differently depending on how the same information is presented.
 11. Mere-Exposure Effect
 Repeated exposure to something often makes people like it more.

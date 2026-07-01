@@ -3,9 +3,7 @@
 1. Confirmation Bias
 2. 
 People tend to notice
-and remember information that supports what they already believe.
-
-4. H
+and remember information that supports what they already believ
 One positive quality
 such as attractiveness or confidence) can make someone seem smarter, kinder, or more competent.
 

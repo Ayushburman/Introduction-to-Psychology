@@ -16,6 +16,7 @@ The first number or idea you hear influences later judgments, even if it's arbit
 
 People react differently depending on how the same information is presented.
 11. Mere-Exposure Effect
+
 Repeated exposure to something often makes people like it more.
 12. Social Proof
 People often look to others' behavior to decide what they should do.

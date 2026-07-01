@@ -1,4 +1,4 @@
-Here are psychological principles and findings that are well-
+Here are psychological principles 
 
 # 🧠 1. Psychological Effects Everyone Should Know
 

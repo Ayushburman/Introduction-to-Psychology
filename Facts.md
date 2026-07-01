@@ -26,7 +26,8 @@ People often look to others' behavior to decide what they should do.
 13. Loss Aversion
 14. 
 Most people feel the pain
-of losing more strongly than the pleasure of gaining an equivalent amount.
+of losing more strongly
+ than the pleasure of gaining an equivalent amount.
 16. Reciprocity
 When someone does something for us, we often feel a pull to return the favor.
 17. Scarcity Principle

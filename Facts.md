@@ -2,7 +2,8 @@
    
 1. Confirmation Bias
 2. 
-People tend to notice and remember information that supports what they already believe.
+People tend to notice
+and remember information that supports what they already believe.
 
 4. Halo Effect
 5. 

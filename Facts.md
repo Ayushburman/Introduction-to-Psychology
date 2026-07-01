@@ -5,10 +5,7 @@ One positive quality
 such as attractiveness or confidence) can make The first number or idea you hear influences later judgments, even if it's arbitr10. People react differently depending on how the same information is presented.
 11. Mere-Exposure Eff
 Repeated 
-People often look to others' behavior to decide what they should do.
-
-13. Loss Aversion
-14. 
+People often look to others' behavior to 
 Most people feel the pain
 of losing more strongly
  than the pleasure of gaining

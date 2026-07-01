@@ -7,7 +7,7 @@ and remember information that supports what they already believe.
 
 4. Halo Effect
 5. 
-One positive quality (such as attractiveness or confidence) can make someone seem smarter, kinder, or more competent.
+One positive quality such as attractiveness or confidence) can make someone seem smarter, kinder, or more competent.
 
 7. Anchoring Effect
 8. 

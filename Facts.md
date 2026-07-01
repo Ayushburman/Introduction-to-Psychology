@@ -19,6 +19,7 @@ People react differently depending on how the same information is presented.
 
 Repeated exposure to something often makes people like it more.
 12. Social Proof
+
 People often look to others' behavior to decide what they should do.
 13. Loss Aversion
 Most people feel the pain of losing more strongly than the pleasure of gaining an equivalent amount.

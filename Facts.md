@@ -1,12 +1,8 @@
-1. Psychological Effects Everyone Should Know
-   
-1. Confirmation Bias
-2. 
+1. Psychological Effects Everyone Should 
 People tend to notice
 and remember information that supports what they already believ
 One positive quality
 such as attractiveness or confidence) can make someone seem smarter, kinder, or more competent.
-
 7. Anchoring Effect
 8. 
 The first number or idea you hear influences later judgments, even if it's arbitrary.

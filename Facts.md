@@ -8,8 +8,7 @@ such as attractiveness or confidence) can make someone seem smarter, kinder, or 
 The first number or idea you hear influences later judgments, even if it's arbitr10. Framing Effect
 
 People react differently depending on how the same information is presented.
-11. Mere-Exposure Effect
-
+11. Mere-Exposure Eff
 Repeated exposure to something often makes people like it more.
 
 12. Social Proof

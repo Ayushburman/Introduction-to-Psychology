@@ -1,4 +1,4 @@
-Here are psychological principles and findings that are well-supported by research. Some are popularly called "tricks," but they work 
+Here are psychological principles and findings that are well-
 
 # 🧠 1. Psychological Effects Everyone Should Know
 

@@ -6,9 +6,7 @@ such as attractiveness or confidence) can make The first number or idea you hear
 11. Mere-Exposure Eff
 Repeated 
 People often look to others' behavior to 
-Most people feel the pain
-of losing more strongly
- than the pleasure of gaining
+Most people feel the 
 an equivalent amount.
 16. Reciprocity
 

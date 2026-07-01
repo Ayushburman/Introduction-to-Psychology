@@ -16,4 +16,4 @@ When someone does something for us, we often feel a pull to return the favor.
 Things seem more valuable when they appear limited or hard to get.
 18. Cognitive Dissonance
 
-When actions and beliefs conflict, people often change one to reduce the discomfort.
+When actions 

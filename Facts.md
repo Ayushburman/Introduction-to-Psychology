@@ -12,5 +12,4 @@ of losing more strongly
 an equivalent amount.
 16. Reciprocity
 When someone does something for us, we often feel a pull to return the favor.
-17. Scarcity Principle
-Things seem more valuable when 
+17. Scarcity 

@@ -24,11 +24,12 @@ Repeated exposure to something often makes people like it more.
 People often look to others' behavior to decide what they should do.
 
 13. Loss Aversion
+14. 
 Most people feel the pain of losing more strongly than the pleasure of gaining an equivalent amount.
-14. Reciprocity
+15. Reciprocity
 When someone does something for us, we often feel a pull to return the favor.
-15. Scarcity Principle
+16. Scarcity Principle
 Things seem more valuable when they appear limited or hard to get.
-16. Cognitive Dissonance
+17. Cognitive Dissonance
 
 When actions and beliefs conflict, people often change one to reduce the discomfort.

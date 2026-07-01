@@ -2,8 +2,7 @@
 People tend to notice
 and remember information that supports what they already believ
 One positive quality
-such as attractiveness or confidence) can make someone seem smarter, kinder, or more competent.
-7. Anchoring Effect
+such as attractiveness or confidence) can make someone seem  Anchoring Effect
 8. 
 The first number or idea you hear influences later judgments, even if it's arbitr10. People react differently depending on how the same information is presented.
 11. Mere-Exposure Eff

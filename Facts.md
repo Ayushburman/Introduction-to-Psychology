@@ -5,8 +5,7 @@
 People tend to notice
 and remember information that supports what they already believe.
 
-4. Halo Effect
-5. 
+4. H
 One positive quality
 such as attractiveness or confidence) can make someone seem smarter, kinder, or more competent.
 

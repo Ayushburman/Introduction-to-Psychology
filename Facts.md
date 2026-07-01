@@ -1,4 +1,5 @@
 1. Psychological Effects Everyone Should Know
+   
 1. Confirmation Bias
 People tend to notice and remember information that supports what they already believe.
 2. Halo Effect

@@ -1,7 +1,5 @@
 
-haunaij
-hhhus
-
+hauna
 jjiia
 ihsi
 hahahu

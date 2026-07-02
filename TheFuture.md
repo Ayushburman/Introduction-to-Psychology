@@ -8,7 +8,6 @@ ihsi
 hahahu
  ha
 uhabuab
-huh
-nuhja
+hu
 njnjna
 hhua

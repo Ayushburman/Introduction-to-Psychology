@@ -1,8 +1,7 @@
 
 haunaij
 hhhus
-jb
-s,
+
 jjiia
 ihsi
 hahahu

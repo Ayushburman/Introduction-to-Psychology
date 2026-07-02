@@ -13,8 +13,7 @@ unhs
 jhia
 s,sjaj
 jjiia
-ihsiij
-jhuh
+ihsi
 hahahu
  ha
 uhabuab

@@ -23,5 +23,3 @@ iiis
 nuhja
 njnjna
 hhua
-miaj
-8jij

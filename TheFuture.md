@@ -21,6 +21,8 @@ Psychology studies how minds work; technology increasingly studies minds too —
 #### Psychology → Tech
 **Behavioral models become products**
 
+
+
 Operant conditioning became notification design. Attention research became infinite scroll. Motivation theory became gamification. Almost every persuasive interface traces back to a lab finding.
 
 #### Tech → Psychology

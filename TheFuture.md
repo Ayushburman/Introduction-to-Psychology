@@ -1,8 +1,6 @@
 
 hauna
-jjiia
-ihsi
-
+jj
 uhabuab
 hu
 njn

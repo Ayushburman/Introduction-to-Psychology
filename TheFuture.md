@@ -52,6 +52,7 @@ A genuinely chronological path — each stage depended on the one before it.
 #### 1940s–50s · Cybernetics & the birth of feedback thinking
 Wiener, and later cognitive pioneers, began describing minds and machines with the same vocabulary — input, feedback, control, error correction.
 
+
 #### 1960s–70s · Cognitive psychology & early HCI
 The "cognitive revolution" replaced behaviorism with information-processing models of the mind, right as the first interactive computer terminals demanded models of how humans process on-screen information.
 

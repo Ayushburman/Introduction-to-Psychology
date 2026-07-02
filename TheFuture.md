@@ -2,8 +2,7 @@
 haunaij
 hua
 hsjhsu
-inkj
-hiha
+i
 huhusn
 
 hhhus

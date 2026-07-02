@@ -15,6 +15,9 @@ Technology and psychology have stopped being neighboring disciplines and become 
 
 Psychology studies how minds work; technology increasingly studies minds too — through data, and it also actively reshapes them through design. The relationship runs in both directions, and that loop is the actual subject of this guide.
 
+
+
+
 #### Psychology → Tech
 **Behavioral models become products**
 

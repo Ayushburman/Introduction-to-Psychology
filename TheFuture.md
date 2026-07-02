@@ -1,7 +1,5 @@
 
 haunaij
-hua
-hsjhsu
 i
 huhusn
 

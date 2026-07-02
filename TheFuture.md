@@ -1,9 +1,7 @@
 
 haunaij
 hhhus
-jbjha
-unhs
-jhia
+jb
 s,sjaj
 jjiia
 ihsi

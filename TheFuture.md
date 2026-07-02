@@ -8,5 +8,4 @@ hahahu
  ha
 uhabuab
 hu
-njnjna
-hhua
+njn

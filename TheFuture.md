@@ -30,6 +30,8 @@ Operant conditioning became notification design. Attention research became infin
 
 fMRI, EEG, eye-tracking, smartphone sensors, and large language models gave psychology tools to observe cognition and behavior at a resolution earlier generations never had access to.
 
+
+
 #### The loop
 **Measurement changes the thing measured**
 

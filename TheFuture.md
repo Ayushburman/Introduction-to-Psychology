@@ -4,6 +4,8 @@
 
 Technology and psychology have stopped being neighboring disciplines and become a shared substrate — every interface shapes cognition, and every model of the mind reshapes the machines built to reach it. This is a full map of that overlap, and where it's headed next.
 
+
+
 ---
 
 ## 01 · Foundations

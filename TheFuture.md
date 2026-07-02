@@ -8,6 +8,7 @@ Technology and psychology have stopped being neighboring disciplines and become 
 
 ---
 
+
 ## 01 · Foundations
 
 ### Two disciplines, one feedback loop

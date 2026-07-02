@@ -31,7 +31,7 @@ fMRI, EEG, eye-tracking, smartphone sensors, and large language models gave psyc
 Apps built from psychological insight generate behavioral data, which trains new models of behavior, which shape the next generation of apps. The loop is closed and accelerating.
 
 > **Core idea**
->
+
 > Cybernetics — the study of control and communication in animals and machines, formalized by Norbert Wiener in 1948 — is the true common ancestor of both modern HCI and cognitive psychology. Both fields descend from the same question: how does a system regulate itself using feedback?
 
 ---

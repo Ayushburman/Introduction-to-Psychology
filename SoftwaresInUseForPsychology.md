@@ -12,10 +12,7 @@ ncdkjknkn
 
 jbdfjnjnsdj
 njnde
-bhbcd
-hbj
-mncm
-njn
+bhbc
 jbsjd
 nisdjie
 njdhcks

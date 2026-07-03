@@ -4,10 +4,7 @@ missj
 mksjx
 kmsdkm
 mksmdikjsjd
-uhi
-xc ne
-n
-ninfie
+uh
 
 jnskdnk
 hndsihdi

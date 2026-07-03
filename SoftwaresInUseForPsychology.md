@@ -5,8 +5,6 @@ mksjx
 kmsdkm
 mksmdikjsjd
 uhid
-kxckjd
-cbsn
 
 j
 xc nebf

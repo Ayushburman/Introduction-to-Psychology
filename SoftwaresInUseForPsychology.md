@@ -6,9 +6,7 @@ kmsdkm
 mksmdikjsjd
 uhi
 xc ne
-nksjce
-njned
-mksjc
+n
 ninfie
 hsudhejhd
 jnjsn

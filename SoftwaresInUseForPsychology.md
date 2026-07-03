@@ -7,8 +7,7 @@ mksmdikjsjd
 uhidr
 misjdkjsndj
 kxckjd
-cbsnd 
-ncdkjknkn
+cbsn
 
 jbdfjnjnsdj
 njnde

@@ -7,9 +7,7 @@ mksmdikjsjd
 uhid
 
 j
-xc nebf
-jdjfh
-nxjcnd
+xc neb
 jbdjfhej
 jscjs
 njnsd

@@ -10,8 +10,7 @@ cbsn
 
 jbdfjnjnsdj
 njnde
-bhbc
-jbsjd
+
 nisdjie
 njdhcks
 xc nebf

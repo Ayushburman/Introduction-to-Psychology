@@ -4,8 +4,7 @@ missj
 mksjx
 kmsdkm
 mksmdikjsjd
-uhidr
-misjdkjsndj
+uhid
 kxckjd
 cbsn
 

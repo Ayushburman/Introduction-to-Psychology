@@ -7,5 +7,3 @@ mksmdikjsjd
 uh
 
 jnskdnk
-hndsihdi
-jbjdbf

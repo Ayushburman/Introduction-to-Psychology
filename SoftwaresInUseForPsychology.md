@@ -5,9 +5,7 @@ mksjx
 kmsdkm
 mksmdikjsjd
 uhi
-xc neb
-jbdjfhej
-js
+xc ne
 nksjce
 njned
 mksjc

@@ -7,9 +7,7 @@ mksmdikjsjd
 uhi
 xc neb
 jbdjfhej
-jscjs
-njnsd
-nisjde
+js
 nksjce
 njned
 mksjc

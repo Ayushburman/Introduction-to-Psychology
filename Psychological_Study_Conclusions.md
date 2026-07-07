@@ -51,6 +51,8 @@ Here's a brief guide to each, organized by category:
 - **Hemispatial neglect** — Failure to attend to or perceive one side of space, typically after right-parietal damage.
 - **Phantom limb** — Continued sensation, including pain, in a limb that has been amputated.
 
+----
+
 **7. Obsessive and Impulse Disorders**
 - **Trichotillomania** — Recurrent, irresistible urge to pull out one's own hair.
 - **Excoriation disorder** — Compulsive skin picking causing lesions.

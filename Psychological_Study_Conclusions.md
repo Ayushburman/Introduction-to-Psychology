@@ -7,6 +7,9 @@ Here's a brief guide to each, organized by category:
 - **Intermetamorphosis** — Belief that people swap identities with one another, both physically and psychologically.
 - **Subjective doubles** — Belief that a duplicate of oneself exists and is living a separate life.
 
+
+---
+
 **2. Identity and Self Disorders**
 - **Depersonalization-derealization disorder** — Persistent feeling of detachment from one's own body/thoughts (depersonalization) or from the surrounding world feeling unreal (derealization).
 - **Dissociative identity disorder** — Presence of two or more distinct personality states, often linked to severe early trauma.

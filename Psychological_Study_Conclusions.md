@@ -17,6 +17,8 @@ Here's a brief guide to each, organized by category:
 - **Alien hand syndrome** — A limb (usually a hand) performs purposeful movements the person doesn't consciously control or intend.
 - **Autoscopic hallucination** — Seeing a projected image of one's own body from outside oneself.
 
+---
+
 **3. Memory Disorders**
 - **Hyperthymesia** — Exceptionally detailed autobiographical memory for one's own personal timeline.
 - **Transient global amnesia** — Sudden, temporary episode of memory loss with no other neurological signs, usually resolving within 24 hours.

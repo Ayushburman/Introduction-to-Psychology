@@ -1,4 +1,3 @@
-Here's a brief guide to each, organized by category:
 
 **1. Delusional Misidentification Syndromes**
 - **Capgras syndrome** — Belief that a close person has been replaced by an identical impostor; linked to a disconnect between face recognition and emotional response areas of the brain.

@@ -43,6 +43,8 @@ Here's a brief guide to each, organized by category:
 - **Broca aphasia** — Effortful, halting speech with relatively preserved comprehension, from damage to Broca's area.
 - **Glossolalia** — Fluent but meaningless speech-like vocalization, often in religious/trance contexts (not itself a disorder, but studied for its neurology).
 
+---
+
 **6. Body Representation Disorders**
 - **Somatoparaphrenia** — Denial of ownership of a limb, attributing it to someone else, usually after right-hemisphere stroke.
 - **Asomatognosia** — Loss of awareness or recognition of part of one's own body.

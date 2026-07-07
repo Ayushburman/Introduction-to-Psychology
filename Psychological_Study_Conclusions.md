@@ -68,6 +68,8 @@ Here's a brief guide to each, organized by category:
 - **Exploding head syndrome** — Perception of a sudden loud noise or explosion in the head while falling asleep or waking, without actual sound.
 - **Sleep paralysis** — Temporary inability to move or speak while falling asleep or waking, often with vivid hallucinations.
 
+---
+
 **9. Extremely Rare Delusions**
 - **Clinical lycanthropy** — Delusional belief that one is transforming into an animal.
 - **Ekbom syndrome** (delusional parasitosis) — Fixed false belief of being infested with parasites or insects.

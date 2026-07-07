@@ -35,6 +35,8 @@ Here's a brief guide to each, organized by category:
 - **Charles Bonnet syndrome** — Vivid visual hallucinations in people with significant vision loss, with insight that they aren't real.
 - **Prosopagnosia** — Inability to recognize faces, including sometimes one's own, despite otherwise normal vision.
 
+---
+
 **5. Language Disorders**
 - **Foreign accent syndrome** — Speech pattern shifts to sound like a foreign accent, usually after brain injury.
 - **Wernicke aphasia** — Fluent but nonsensical or incoherent speech with impaired comprehension, from damage to Wernicke's area.

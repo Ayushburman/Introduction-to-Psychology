@@ -78,6 +78,8 @@ Here's a brief guide to each, organized by category:
 - **Paris syndrome** — Acute culture-shock-related distress, mainly reported in Japanese tourists, from a mismatch between idealized and actual Paris.
 - **Stendhal syndrome** — Overwhelming physical/psychological reaction (dizziness, palpitations) when exposed to intensely beautiful art.
 
+---
+
 **10. Sleep and Dream Disorders**
 - **REM sleep behavior disorder** — Loss of normal muscle paralysis during REM sleep, causing people to physically act out dreams.
 

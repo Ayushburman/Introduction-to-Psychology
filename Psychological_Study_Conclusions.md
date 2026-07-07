@@ -60,6 +60,8 @@ Here's a brief guide to each, organized by category:
 - **Pyromania** — Deliberate, repeated fire-setting driven by tension relief and fascination with fire.
 - **Onychophagia** — Compulsive nail-biting.
 
+---
+
 **8. Rare Hallucination Syndromes**
 - **Peduncular hallucinosis** — Vivid, often colorful visual hallucinations from brainstem lesions, usually with preserved insight.
 - **Musical hallucinations** — Perceiving music that isn't playing, often in people with hearing loss.

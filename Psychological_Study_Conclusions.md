@@ -26,6 +26,8 @@ Here's a brief guide to each, organized by category:
 - **Dissociative amnesia** — Inability to recall important personal information, usually following trauma or stress, not explained by ordinary forgetfulness.
 - **Confabulation** — Production of fabricated or distorted memories without intent to deceive, often filling gaps from amnesia.
 
+---
+
 **4. Perception Disorders**
 - **Alice in Wonderland syndrome** — Distorted perception of body size, spatial relations, or time, often linked to migraines.
 - **Visual snow syndrome** — Persistent visual static/noise across the entire visual field.

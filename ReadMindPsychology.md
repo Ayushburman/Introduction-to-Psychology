@@ -8,6 +8,7 @@ miji
 mmim
 mkmim
 kjj
+kmkm
 kmm
 kmjm
 mini

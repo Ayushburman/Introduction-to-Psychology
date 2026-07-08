@@ -1,8 +1,5 @@
 
 kmkm
-kmm
-kmjm
-mini
 mkmss
 kmkmsd
 mini

@@ -5,4 +5,3 @@ kmkms
 miji
 knsdnj
 mkkmx
-mimss

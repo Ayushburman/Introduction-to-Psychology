@@ -5,3 +5,4 @@ jiji
 jij
 miji
 kjj
+mini

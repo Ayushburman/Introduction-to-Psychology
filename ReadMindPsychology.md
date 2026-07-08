@@ -1,4 +1,4 @@
-Learning psychology is a great goal, but it's important to start with a realistic expectation:
+Learning psychology 
 
 > **No one can literally "read minds."** Psychology helps you make better-informed hypotheses about thoughts, emotions, and behavior—not know them with certainty.
 

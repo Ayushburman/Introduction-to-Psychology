@@ -1,5 +1,4 @@
 
 kmkm
 mkms
-kmkms
-miji
+kmkm

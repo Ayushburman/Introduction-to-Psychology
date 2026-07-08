@@ -6,6 +6,7 @@ jij
 mkmi
 miji
 mmim
+kmkm
 mkmim
 kjj
 kmkm

@@ -1,9 +1,5 @@
 
-jjj
-nunu
-jiji
-jij
-mkmi
+jj
 miji
 mmim
 mkm

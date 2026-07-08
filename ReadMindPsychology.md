@@ -8,5 +8,4 @@ miji
 knsdnj
 mkkmx
 mimss
-mjmimsx
-jns
+mjmims

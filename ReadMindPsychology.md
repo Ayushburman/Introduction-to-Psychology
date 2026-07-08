@@ -3,8 +3,6 @@ jj
 miji
 mmim
 mkm
-kmmk
-mimm
 kmkm
 mkmim
 kjj

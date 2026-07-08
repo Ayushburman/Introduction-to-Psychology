@@ -1,6 +1,4 @@
 
-mmim
-mkm
 kmkm
 mkmim
 kmkm

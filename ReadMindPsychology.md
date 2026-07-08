@@ -1,7 +1,6 @@
 
 kmkm
-mkmss
-kmkms
+mkms
 kmkms
 miji
 knsdnj

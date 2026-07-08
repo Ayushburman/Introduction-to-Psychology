@@ -1,6 +1,4 @@
 
-jj
-miji
 mmim
 mkm
 kmkm

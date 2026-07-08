@@ -5,7 +5,6 @@ mmim
 mkm
 kmkm
 mkmim
-kjj
 kmkm
 kmm
 kmjm

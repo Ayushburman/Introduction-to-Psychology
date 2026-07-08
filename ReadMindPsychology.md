@@ -1,4 +1,4 @@
-Learning psychology 
+
 
 > **No one can literally "read minds."** Psychology helps you make better-informed hypotheses about thoughts, emotions, and behavior—not know them with certainty.
 

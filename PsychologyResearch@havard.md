@@ -1,5 +1,5 @@
 
-**Paper Title:** *Domain Specific Effects of Stereotypes on Perform
+**Paper Title:** *Domain Specific Effects of Stereotypes on Pe
 ---
 
 # Step 1: What is this research paper about?

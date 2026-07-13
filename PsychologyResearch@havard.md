@@ -411,3 +411,8 @@ When combined with earlier studies showing the reverse pattern for **math**, the
 
 > **The effect of a stereotype depends on the subject (domain), not just on the person's identity.** 
 
+
+
+
+
+Link[https://www.hks.harvard.edu/publications/domain-specific-effects-stereotypes-performance]

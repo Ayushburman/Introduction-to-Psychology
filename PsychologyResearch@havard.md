@@ -1,5 +1,5 @@
 
-**Paper Title:** *Domain Specific Effects of 
+**Paper Title:** *Domain Specific Effects
 ---
 
 # Step 1: What is this research paper about?

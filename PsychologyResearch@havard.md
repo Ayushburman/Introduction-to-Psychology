@@ -1,5 +1,5 @@
 
-**Paper Title:** *Domain Specific Effects of Stereotypes on Performance* (Margaret Shih, Todd L. Pittinsky, Amy Trahan, Harvard Kennedy School 
+**Paper Title:** *Domain Specific Effects of Stereotypes on Performance* (Margaret Shih, Todd L. Pittinsky, Amy Trahan, Harvard Kennedy  
 ---
 
 # Step 1: What is this research paper about?

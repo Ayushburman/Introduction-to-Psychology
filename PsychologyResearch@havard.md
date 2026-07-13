@@ -1,5 +1,5 @@
 
-**Paper Title:** *Domain Specific Effects of Stereotypes on Performance* (Margaret Shih, Todd L
+**Paper Title:** *Domain Specific Effects of Stereotypes on Performance* (Margaret Shih, Todd
 ---
 
 # Step 1: What is this research paper about?

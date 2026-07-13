@@ -1,4 +1,4 @@
-I analyzed the entire res
+I analyzed the entire 
 
 **Paper Title:** *Domain Specific Effects of Stereotypes on Performance* (Margaret Shih, Todd L. Pittinsky, Amy Trahan, Harvard Kennedy School Working Paper, 2005). 
 

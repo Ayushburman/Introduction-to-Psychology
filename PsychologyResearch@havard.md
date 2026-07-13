@@ -1,5 +1,5 @@
 
-**Paper Title:**
+**Paper Title
 ---
 
 # Step 1: What is this research paper about?

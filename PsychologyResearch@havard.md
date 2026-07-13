@@ -1,5 +1,5 @@
 
-**Paper Title:** *Domain Sp
+**Paper Title:** *Domai
 ---
 
 # Step 1: What is this research paper about?

@@ -415,4 +415,12 @@ When combined with earlier studies showing the reverse pattern for **math**, the
 
 
 
-Link[https://www.hks.harvard.edu/publications/domain-specific-effects-stereotypes-performance]
+Link[https://www.hks.harvard.edu/publications/domain-specific-effects-stereotypes-performance] another related 
+
+TedTalk Link[https://youtu.be/fip29UJYV2k?si=ZkPRKP7qDp62Gphy]
+
+### Copyright Notice
+
+This repository does **not** include the original research paper. All copyrights remain with the original authors and publisher. The paper is linked above for educational and research purposes only.
+
+The analysis and summary provided in this repository are my own interpretation of the published work.

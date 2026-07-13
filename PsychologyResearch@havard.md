@@ -1,5 +1,5 @@
 
-**Paper Title:** *Domain Specific Effects of Stereotypes on Performance* (Margaret
+**Paper Title:** *Domain Specific Effects of Stereotypes on Performance* (Mar
 ---
 
 # Step 1: What is this research paper about?

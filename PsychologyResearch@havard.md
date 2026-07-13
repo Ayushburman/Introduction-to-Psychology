@@ -1,5 +1,4 @@
 
-**Pa
 ---
 
 # Step 1: What is this research paper about?

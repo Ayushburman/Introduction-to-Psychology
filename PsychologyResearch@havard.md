@@ -1,5 +1,5 @@
 
-**Paper Title:** *Domain Specific 
+**Paper Title:** *Domain Sp
 ---
 
 # Step 1: What is this research paper about?

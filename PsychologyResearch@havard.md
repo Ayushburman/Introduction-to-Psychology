@@ -1,5 +1,5 @@
 
-**Paper Title:** *Domain Specific Effects of Stereotypes on
+**Paper Title:** *Domain Specific Effects of Stereotypes
 ---
 
 # Step 1: What is this research paper about?

@@ -1,7 +1,5 @@
 
 hghg
-hhhh
-hhbhn
 fgff
 hvv
 fhfyg

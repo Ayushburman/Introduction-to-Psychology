@@ -1,7 +1,5 @@
 
 bfhfhg
-dtftf
-tfgy
 futtfy
 dct
 hgghg

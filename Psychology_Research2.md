@@ -1,4 +1,3 @@
 
 ddt
-ftfyt
-fhfhth
+ftfy

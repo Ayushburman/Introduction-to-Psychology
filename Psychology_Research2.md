@@ -1,6 +1,4 @@
 
-dct
-hgghg
 ht
 hgghg
 fhghg

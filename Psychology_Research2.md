@@ -1,7 +1,6 @@
 
 njhj
-fddtf
-dserd
+
 ddtrt
 ghtutu
 hyuyy

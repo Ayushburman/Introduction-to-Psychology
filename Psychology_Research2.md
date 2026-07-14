@@ -3,7 +3,8 @@ James T Townsend 1
 Author information
 
 Copyright and License information
-PMCID: PMC2651093  NIHMSID: NIHMS77989  PMID: 19802342
+PMCID: PMC2651093  NIHMSID: NIHMS77989  PMID
+: 19802342
 The publisher's version of this article is available at J Math Psychol
 Abstract
 The twenty-first century is certainly in progress by now, but hardly well underway. Therefore, I will take that modest elasticity in concept as a frame for this essay. This frame will serve as background for some of my hopes and gripes about contemporary psychology and mathematical psychology’s place therein. It will also act as platform for earnest, if wistful thoughts about what might have (and perhaps can still) aid us in forwarding our agenda and what I see as some of the promising avenues for the future. I loosely structure the essay into a section about mathematical psychology in the context of psychology at large and then a section devoted to prospects within mathematical psychology proper. The essay can perhaps be considered as in a similar spirit, although differing in content, to previous editorial-like reviews of general or specific aspects of mathematical psychology such as Estes (1975), Falmagne (2005), Luce (1997) that have appeared in this journal.

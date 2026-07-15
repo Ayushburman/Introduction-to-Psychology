@@ -9,7 +9,6 @@ now, but hardly
 Therefore, I will take that modest 
 elasticity in 
 concept as a frame for this essay. 
-
 This frame will serve as background
 for some of my hopes and gripes about 
 contemporary psychology and mathematical 

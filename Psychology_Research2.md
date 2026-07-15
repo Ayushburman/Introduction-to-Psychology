@@ -1,8 +1,7 @@
 Mathematical Psychology: Prospects For The 21st Century1: A Guest Editor
 Copyright and License informatio
 
-The publisher's version of this article is available at J Math Psychol
-
+The publisher's version of this article is available at J Mat
 Abstract
 The twenty-first century 
 is certainly in progress by 

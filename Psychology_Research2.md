@@ -4,7 +4,7 @@ Copyright and License informatio
 The publisher's version of this article is available at J Mat
 Abstract
 The twenty-first century 
-is certainly in progress by 
+is certainly in
 now, but hardly well underway. 
 Therefore, I will take that modest 
 elasticity in 

@@ -5,7 +5,7 @@ The publisher's version of this article is available at J Mat
 Abstract
 The twenty-first century 
 is certainly in
-now, but hardly well underway. 
+now, but hardly
 Therefore, I will take that modest 
 elasticity in 
 concept as a frame for this essay. 

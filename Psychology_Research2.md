@@ -1,5 +1,5 @@
 Mathematical Psychology: Prospects For The 21st Century1: A Guest Editorial
-James T Townsend 1
+James T
 
 Copyright and License informatio
 NIHMSID: NIHMS77989  PMID

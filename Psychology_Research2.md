@@ -28,7 +28,8 @@ have appeared in this journal.
 
 Keywords: Future, Mathematical Psychology,
 Fields of Mathematical Psychology, History of Mathematical 
-Psychology, Psychological Science, Clinical Science and Mathematical Psychology, Neuroscience and Mathematical Psychology, Mathematical Psychology and Other quantitative Fields, Computer Science and Mathematical Psychology, Physics and Mathematical Psychology
+Psychology, Psychological Science, Clinical Science and Mathematical 
+Psychology, Neuroscience and Mathematical Psychology, Mathematical Psychology and Other quantitative Fields, Computer Science and Mathematical Psychology, Physics and Mathematical Psychology
 Psychology and Mathematical Psychology Therein
 A Glimpse of Recent History
 Psychology is a young science as opposed to a young 

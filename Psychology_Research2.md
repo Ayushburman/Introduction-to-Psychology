@@ -27,7 +27,8 @@ psychology such as Estes (1975), Falmagne (2005), Luce (1997) that
 have appeared in this journal.
 
 Keywords: Future, Mathematical Psychology,
-Fields of Mathematical Psychology, History of Mathematical Psychology, Psychological Science, Clinical Science and Mathematical Psychology, Neuroscience and Mathematical Psychology, Mathematical Psychology and Other quantitative Fields, Computer Science and Mathematical Psychology, Physics and Mathematical Psychology
+Fields of Mathematical Psychology, History of Mathematical 
+Psychology, Psychological Science, Clinical Science and Mathematical Psychology, Neuroscience and Mathematical Psychology, Mathematical Psychology and Other quantitative Fields, Computer Science and Mathematical Psychology, Physics and Mathematical Psychology
 Psychology and Mathematical Psychology Therein
 A Glimpse of Recent History
 Psychology is a young science as opposed to a young field of discourse. Ponderings about psychological topics, casual and systematic, recede into recorded history. Yet we all know that scientific psychology is little more than one-hundred twenty-five years old or so, dating by convention from 1879, year of establishment of Wundt’s famous laboratory in Leipzig; this according to Edwin Boring’s (1957) calendar of experimental psychology.

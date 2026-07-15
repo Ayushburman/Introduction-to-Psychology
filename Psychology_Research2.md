@@ -1,6 +1,4 @@
-Mathematical Psychology: Prospects For The 21st Century1: A Guest Editorial
-James T
-
+Mathematical Psychology: Prospects For The 21st Century1: A Guest Editor
 Copyright and License informatio
 
 The publisher's version of this article is available at J Math Psychol

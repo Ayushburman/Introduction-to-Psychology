@@ -3,7 +3,8 @@ James T Townsend 1
 Author information
 
 Copyright and License information
-PMCID: PMC2651093  NIHMSID: NIHMS77989  PMID
+PMCID: PMC2651093  
+NIHMSID: NIHMS77989  PMID
 : 19802342
 The publisher's version of this article is available at J Math Psychol
 

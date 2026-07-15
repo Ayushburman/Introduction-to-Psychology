@@ -1,6 +1,5 @@
 Mathematical Psychology: Prospects For The 21st Century1: A Guest Editorial
 James T Townsend 1
-Author information
 
 Copyright and License information
 PMCID: PMC2651093  

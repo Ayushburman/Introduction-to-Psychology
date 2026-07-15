@@ -25,6 +25,7 @@ psychology proper. The essay can perhaps be considered as in
 a similar spirit, although differing in content, to previous
 editorial-like reviews of general or specific aspects of mathematical 
 psychology such as Estes (1975), Falmagne (2005), Luce (1997) that have appeared in this journal.
+
 Keywords: Future, Mathematical Psychology, Fields of Mathematical Psychology, History of Mathematical Psychology, Psychological Science, Clinical Science and Mathematical Psychology, Neuroscience and Mathematical Psychology, Mathematical Psychology and Other quantitative Fields, Computer Science and Mathematical Psychology, Physics and Mathematical Psychology
 Psychology and Mathematical Psychology Therein
 A Glimpse of Recent History

@@ -14,8 +14,6 @@ jhjhj
 jhhu
 jhu
 jhjhj
-gf
-jjhjh
 fyggyhguy
 ihuh
 jbjh

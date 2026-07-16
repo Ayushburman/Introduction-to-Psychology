@@ -24,5 +24,3 @@ huh
 jhjh
 bvhv
 yfyt
-mim
-bhbh

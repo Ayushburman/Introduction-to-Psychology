@@ -1,8 +1,5 @@
 
 asdf
-yfgg
-
-jhjh
 hgjh
 jhuhj
 jhuh

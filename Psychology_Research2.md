@@ -6,6 +6,4 @@ jhuh
 vgghg
 jhuh
 huh
-jhjh
-bvhv
 yfyt

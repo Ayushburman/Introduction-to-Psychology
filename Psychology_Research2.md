@@ -2,8 +2,6 @@
 asdf
 yfgg
 
-jihih
-jhu
 jhjhj
 ihuh
 jbjh

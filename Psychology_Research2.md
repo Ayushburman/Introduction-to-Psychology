@@ -10,8 +10,6 @@ hjhj
 fgffg
 jhni
 jihih
-jhjhj
-jhhu
 jhu
 jhjhj
 fyggyhguy

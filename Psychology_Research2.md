@@ -1,8 +1,6 @@
 
 asdf
 yfgg
-ghg
-jhuh
 hhg
 m,m
 fgffg

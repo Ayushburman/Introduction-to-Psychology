@@ -1,7 +1,6 @@
 
 asdf
 yfgg
-fyffyt
 ghg
 jhuh
 hhg

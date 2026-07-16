@@ -4,8 +4,6 @@ yfgg
 fyffyt
 ghg
 jhuh
-ihih
-gfg
 hhg
 m,m
 hjhj

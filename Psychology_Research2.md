@@ -2,9 +2,7 @@
 asdf
 yfgg
 
-jhjhj
-ihuh
-jbjh
+jhjh
 hgjh
 jhuhj
 jhuh

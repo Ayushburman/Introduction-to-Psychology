@@ -1,8 +1,6 @@
 
 asdf
 yfgg
-hhg
-m,m
 
 jihih
 jhu

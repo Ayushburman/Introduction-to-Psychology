@@ -5,7 +5,6 @@ ghg
 jhuh
 hhg
 m,m
-hjhj
 fgffg
 jhni
 jihih

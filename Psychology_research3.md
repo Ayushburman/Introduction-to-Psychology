@@ -36,6 +36,7 @@ terms of memory, human memory forgetting is non-active, and the more we want to
 
 forget the more memorable it becomes, while machine forgetting is an active deletion,
 which deviates from our psychological expectations. In the process of promoting the
+
 progress of artificial intelligence, psychology and its derived philosophy of mind play
 an important role directly or indirectly, can be considered as one of the fundamental
 Frontiers in Neuroscience 01 frontiersin.org

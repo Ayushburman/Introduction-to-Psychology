@@ -2,7 +2,7 @@ Most of the current development of artificial intelligence is based on
 brain cognition, however, this replication of biology cannot simulate the
 subjective emotional and mental state changes of human beings. Due to the
 
-imperfections of existing artificial intelligence, this manuscript summarizes
+imperfections of existing artificial 
 
 and clarifies that artificial intelligence system combin
 psychology is the research direction of artificial intelligence. It aims to

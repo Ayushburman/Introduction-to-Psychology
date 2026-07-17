@@ -16,6 +16,7 @@ the development potential and importance of artificial intelligence to
 
 understand, possess and discriminate human mental states, and argues its
 application value with three typical application examples of human–computer
+
 interaction: face attraction, affective computing, and music emotion, which is
 conducive to the further and higher level of artificial intelligence research.
 KEYWORDS

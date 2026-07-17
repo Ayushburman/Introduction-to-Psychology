@@ -31,6 +31,7 @@ community is mostly based on brain cognition research (Nadji-Tehrani and Eslami,
 
 through computer software. This replication of the biology of the human brain cannot
 well simulate the subjective psychological changes (Zador, 2019). For example, in
+
 terms of memory, human memory forgetting is non-active, and the more we want to
 
 forget the more memorable it becomes, while machine forgetting is an active deletion,

@@ -35,7 +35,7 @@ well simulate the subjective psychological changes (Zador, 2019). For example, i
 terms of memory, human memory forgetting is non-active, and the more we want to
 
 forget the more memorable it becomes, while machine forgetting is an active deletion,
-which deviates from our psychological expectations. In the process of promoting the
+which deviates from our 
 
 progress of artificial intelligence, psychology and its derived philosophy of mind play
 an important role directly or indirectly, can be considered as one of the fundamental
@@ -46,6 +46,7 @@ reinforcement learning theory in AI is inspired by the
 
 behaviorist theory in psychology, i.e., how an organism
 gradually develops expectations of stimuli in response to
+
 rewarding or punishing stimuli given by the environment,
 resulting in habitual behavior that yields maximum benefit.
 The current challenges faced by the artificial intelligence

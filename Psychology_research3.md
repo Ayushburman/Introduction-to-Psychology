@@ -24,6 +24,7 @@ cognitive psychology, artificial intelligence, cognitive theory, behavioral scie
 human–computer interaction
 Introduction
 At present, in the development of artificial intelligence (AI), the scientific
+
 community is mostly based on brain cognition research (Nadji-Tehrani and Eslami,
 2020), which is to reproduce the real physiological activities of our human brain
 

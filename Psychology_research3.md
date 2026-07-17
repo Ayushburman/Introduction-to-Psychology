@@ -5,8 +5,6 @@ gg
 bbv
 gfyg
 yggg
-bhg
-gghg
 huh
 huhuh
 jhuhu

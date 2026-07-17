@@ -9,6 +9,7 @@ psychology is the research direction of artificial intelligence. It aims to
 
 promote the development of artificial intelligence and give computers
 human advanced cognitive abilities, so that computers can recognize
+
 emotions, understand human feelings, and eventually achieve dialog and
 empathy with humans and other artificial intelligence. This paper emphasizes
 the development potential and importance of artificial intelligence to

@@ -89,6 +89,7 @@ or diagnosis, suicide early warning system and intelligent
 surveillance management system, which in turn promotes the
 development of psychology and shortens the research cycle of
 psychology (Branch, 2019).
+
 The review of artificial intelligence based on cognitive
 psychology at this stage is not comprehensive enough.
 This manuscript does the following: (a) introduce the

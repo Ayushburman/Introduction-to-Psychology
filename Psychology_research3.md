@@ -1,5 +1,4 @@
 
-Yes. I analyzed the paper.
 
 **Paper Title:** *Artificial Intelligence Based on Cognitive Psychology: Research, Applications and Future Directions* (Frontiers in Neuroscience, 2022) 
 

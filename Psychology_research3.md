@@ -17,5 +17,3 @@ hb(
 fftf
 gfg
 hbh
-cftfgfgf
-gvg

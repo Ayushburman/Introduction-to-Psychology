@@ -26,6 +26,7 @@ Introduction
 At present, in the development of artificial intelligence (AI), the scientific
 community is mostly based on brain cognition research (Nadji-Tehrani and Eslami,
 2020), which is to reproduce the real physiological activities of our human brain
+
 through computer software. This replication of the biology of the human brain cannot
 well simulate the subjective psychological changes (Zador, 2019). For example, in
 terms of memory, human memory forgetting is non-active, and the more we want to

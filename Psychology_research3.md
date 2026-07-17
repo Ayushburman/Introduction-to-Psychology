@@ -14,6 +14,4 @@ ggvgc
 fgfyf
 vggyggy
 hb(
-fftf
-gfg
-hbh
+fft

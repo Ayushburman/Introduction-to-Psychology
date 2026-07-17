@@ -43,6 +43,7 @@ Frontiers in Neuroscience 01 frontiersin.org
 Zhao et al. 10.3389/fnins.2022.1024316
 supporting theories of AI. For example: The current
 reinforcement learning theory in AI is inspired by the
+
 behaviorist theory in psychology, i.e., how an organism
 gradually develops expectations of stimuli in response to
 rewarding or punishing stimuli given by the environment,
@@ -53,6 +54,7 @@ machines, decision making in ambiguous states also need
 to rely on breakthroughs in the corresponding fields of
 psychology. Psychology and its derived philosophy of mind
 can be considered as one of the fundamental support theories
+
 for artificial intelligence (Miller, 2019). Cognitive psychology
 is mainly a psychological science that studies the advanced
 mental processes of human cognition, including the degree

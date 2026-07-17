@@ -6,6 +6,3 @@ bbv
 gfyg
 yggg
 huh
-huhuh
-jhuhu
-hgg

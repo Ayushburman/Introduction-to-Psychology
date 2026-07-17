@@ -23,5 +23,3 @@ cftfgfgf
 gvg
 fcfcf
 gygy
-hgg
-fftf

@@ -4,5 +4,3 @@ gfft
 gg
 bbv
 gfyg
-yggg
-huh

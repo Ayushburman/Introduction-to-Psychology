@@ -11,5 +11,3 @@ jhuhu
 hgg
 fgg
 ggvgc
-fgfyf
-vggyggy

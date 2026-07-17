@@ -25,5 +25,3 @@ fcfcf
 gygy
 hgg
 fftf
-cgv
-vgggg

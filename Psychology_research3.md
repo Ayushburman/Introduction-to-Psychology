@@ -13,5 +13,3 @@ fgg
 ggvgc
 fgfyf
 vggyggy
-hb(
-fft

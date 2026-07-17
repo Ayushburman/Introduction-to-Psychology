@@ -13,6 +13,7 @@ human advanced cognitive abilities, so that computers can recognize
 emotions, understand human feelings, and eventually achieve dialog and
 empathy with humans and other artificial intelligence. This paper emphasizes
 the development potential and importance of artificial intelligence to
+
 understand, possess and discriminate human mental states, and argues its
 application value with three typical application examples of human–computer
 interaction: face attraction, affective computing, and music emotion, which is

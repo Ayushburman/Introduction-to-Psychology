@@ -53,6 +53,7 @@ In their results, EC was generally more predictive than FC or SC alone.
 The machine-learning models showed that **EC features outperformed FC and SC** in many comparisons, especially for identifying group differences.
 
 ### 2) Meditation-related differences were distributed across large-scale networks
+
 The most informative EC links involved networks mainly in the **left hemisphere**.
 
 These included:

@@ -65,6 +65,7 @@ These included:
 - default mode network (DMN)
 
 ### 3) Structural connectivity was also altered
+
 The anatomical analysis found that meditators had **stronger white-matter connectivity** than controls in specific left-hemisphere pathways.
 
 The strengthened connections involved:

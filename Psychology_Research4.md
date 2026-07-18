@@ -8,4 +8,3 @@ gygg
 ffdtf
 drdr
 gvgv
-ddr

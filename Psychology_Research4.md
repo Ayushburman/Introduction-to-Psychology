@@ -1,7 +1,6 @@
 
  f
 gygyg
-dtdtd
 fdfd
 ftft
 hvyg

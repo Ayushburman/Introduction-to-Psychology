@@ -24,6 +24,7 @@ They compared:
 Each participant was scanned in two conditions:
 - **Resting-state**
 - **Meditation** (focused attention on breathing)
+- 
 
 ## Main goal
 

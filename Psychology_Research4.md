@@ -9,6 +9,7 @@
 
 This paper shows that long-term meditation is associated with distinctive brain connectivity patterns, and that **effective connectivity (EC)** is more informative than functional connectivity (FC) or structural connectivity (SC) alone for distinguishing meditators from controls.
 
+
 ## What the paper is about
 
 The authors studied whether meditation training changes:

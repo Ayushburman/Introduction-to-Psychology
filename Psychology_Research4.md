@@ -3,7 +3,6 @@ fft
  fcf
 drdrd
 bhg6
-tgu
 gygyg
 dtdtd
 fdfd

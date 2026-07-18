@@ -1,6 +1,5 @@
 
- fcf
-drdrd
+ fc
 bhg6
 gygyg
 dtdtd

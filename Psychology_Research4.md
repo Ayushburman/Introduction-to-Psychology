@@ -10,4 +10,3 @@ drdr
 gvgv
 ddr
 hvvg
-crdr

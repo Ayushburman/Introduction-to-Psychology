@@ -4,7 +4,6 @@ kmmi
  hnunmu
 mmim
  jmin
- jnun
 
  k km
  munun

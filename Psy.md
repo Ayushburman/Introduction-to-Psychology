@@ -1,6 +1,5 @@
 
 kmimi
-kmmi
  hnunmu
 mmi
  munun

@@ -1,7 +1,6 @@
 
 kmimi
- hnunmu
-mmi
+ hnunm
  munun
 mmim
 jnimi

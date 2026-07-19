@@ -6,6 +6,7 @@ jmjm
 kmim
  hnunmu
 mmim
+munun
  jmin
  k km
  munun

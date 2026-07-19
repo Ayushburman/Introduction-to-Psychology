@@ -8,6 +8,7 @@ kmim
 mmim
 munun
  jmin
+ jnun
  mjmj
  k km
  munun

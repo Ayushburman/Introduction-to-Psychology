@@ -7,6 +7,7 @@ kmim
 mmim
  jmin
  k km
+ munun
 mmim
 jnimi
 kkimi

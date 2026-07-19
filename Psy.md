@@ -2,11 +2,9 @@
  munun
 mmim
 jnimi
-kkimi
-mumi
+kkim
 mmim
 j
 mim
 mmjjij
 nhnhn
-mhnhn

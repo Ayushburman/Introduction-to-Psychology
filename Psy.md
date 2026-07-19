@@ -2,7 +2,6 @@
 kmimi
 kmmi
 mimi
-jmjm
 kmim
  hnunmu
 mmim

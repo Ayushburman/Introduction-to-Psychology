@@ -1,6 +1,4 @@
 
-kmimi
-
  munun
 mmim
 jnimi

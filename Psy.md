@@ -13,6 +13,7 @@ kkimi
 imimi
 mumi
 mmim
+j j 
 jnu
 mim
 mmjjij

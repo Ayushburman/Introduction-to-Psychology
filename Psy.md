@@ -2,8 +2,7 @@
 kmimi
 kmmi
  hnunmu
-mmim
- jmin
+mmi
 
  k km
  munun

@@ -3,8 +3,6 @@ kmimi
 kmmi
  hnunmu
 mmi
-
- k km
  munun
 mmim
 jnimi

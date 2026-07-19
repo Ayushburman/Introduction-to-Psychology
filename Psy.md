@@ -4,6 +4,4 @@ mmim
 jnimi
 kkim
 mmim
-j
-mim
 mmjjij

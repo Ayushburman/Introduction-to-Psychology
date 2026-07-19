@@ -2,4 +2,3 @@
  munun
 mmim
 jnimi
-kkim

@@ -5,8 +5,7 @@ jnimi
 kkimi
 mumi
 mmim
-j j 
-jnu
+j
 mim
 mmjjij
 nhnhn

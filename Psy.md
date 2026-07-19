@@ -8,3 +8,4 @@ mmim
  jmin
  k km
 mmim
+jnimi

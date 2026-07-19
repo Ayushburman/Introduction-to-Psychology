@@ -3,7 +3,6 @@ kmimi
 kmmi
  hnunmu
 mmim
-munun
  jmin
  jnun
 

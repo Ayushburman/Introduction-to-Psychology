@@ -5,3 +5,5 @@ mimi
 jmjm
 kmim
 mmim
+ jmin
+ k km

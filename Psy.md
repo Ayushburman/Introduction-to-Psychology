@@ -7,3 +7,4 @@ kmim
 mmim
  jmin
  k km
+mmim

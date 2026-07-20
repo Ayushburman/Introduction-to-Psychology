@@ -11,7 +11,7 @@ changes in
 and structural
 For this
 experienced meditator
-control (naive) subjects 
+control (naive) 
 resonance imaging 
 to acquire structural and functional 
 data during two condi-

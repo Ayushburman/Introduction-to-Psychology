@@ -6,7 +6,7 @@ scientifi
 characterizing neural correlates 
 of meditation
 Nonetheless
-underlying meditation remain elusive.
+underlying meditation remain 
 In the present work, we
 changes in functional dynamics 
 and structural connectivity (SC). 

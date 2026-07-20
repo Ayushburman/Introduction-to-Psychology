@@ -15,7 +15,7 @@ control (naive) subjects
 resonance imaging (MRI) 
 to acquire structural and functional 
 data during two condi-
-tions, resting-state and meditation 
+tions, resting-state and
 (focused attention on breathing).
 In this way, we aimed to characterize and distinguish both
 short-term and long-term modifications in the brain’s structure and function. 

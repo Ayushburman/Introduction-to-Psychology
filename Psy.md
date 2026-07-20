@@ -5,7 +5,6 @@ there has been a growing
 
 characterizing neural correlates 
 of 
-Nonetheless
 underlying 
 In the present work, we
 changes in 

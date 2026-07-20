@@ -2,10 +2,10 @@ Abstract
 In the
 
 there has been a growing 
-scientific interest in 
+scientifi
 characterizing neural correlates 
 of meditation
-Nonetheless, the mechanisms 
+Nonetheless, the 
 underlying meditation remain elusive.
 In the present work, we investigated 
 meditation-related

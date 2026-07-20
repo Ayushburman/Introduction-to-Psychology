@@ -8,7 +8,7 @@ of meditation
 Nonetheless, the 
 underlying meditation remain elusive.
 In the present work, we investigated 
-meditation-related
+meditation-
 changes in functional dynamics 
 and structural connectivity (SC). 
 For this purpose, we scanned 

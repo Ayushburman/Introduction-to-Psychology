@@ -12,7 +12,7 @@ and structural
 For this
 experienced meditator
 control (naive) subjects 
-resonance imaging (MRI) 
+resonance imaging 
 to acquire structural and functional 
 data during two condi-
 tions, resting-state and

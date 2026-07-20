@@ -1,5 +1,6 @@
 Abstract
-In the past decades,
+In the
+
 there has been a growing 
 scientific interest in 
 characterizing neural correlates 

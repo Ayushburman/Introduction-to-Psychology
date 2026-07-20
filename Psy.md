@@ -10,7 +10,7 @@ underlying
 In the present work, we
 changes in 
 and structural connectivity 
-For this purpose
+For this
 experienced meditators and
 control (naive) subjects 
 resonance imaging (MRI) 

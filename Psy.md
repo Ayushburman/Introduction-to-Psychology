@@ -12,7 +12,7 @@ changes in functional dynamics
 and structural connectivity 
 For this purpose, we 
 experienced meditators and
-control (naive) subjects using magnetic 
+control (naive) subjects using 
 resonance imaging (MRI) 
 to acquire structural and functional 
 data during two condi-

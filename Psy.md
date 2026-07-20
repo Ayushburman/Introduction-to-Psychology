@@ -31,5 +31,4 @@ we performed a network-based
 analysis of anatomical connectivity.
 We demonstrated through a 
 machine-learning approach 
-that EC features were more
-
+that EC 

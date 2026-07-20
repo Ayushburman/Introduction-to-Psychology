@@ -1,5 +1,3 @@
 
  munun
-ke
-kak
-guh
+k

@@ -3,7 +3,7 @@ In the past decades,
 there has been a growing 
 scientific interest in 
 characterizing neural correlates 
-of meditation training.
+of meditation
 Nonetheless, the mechanisms 
 underlying meditation remain elusive.
 In the present work, we investigated 

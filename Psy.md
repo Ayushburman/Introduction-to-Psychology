@@ -32,4 +32,4 @@ analysis of anatomical connectivity.
 We demonstrated through a 
 machine-learning approach 
 that EC features were more
-informative than FC and SC solely. 
+informative than F. 

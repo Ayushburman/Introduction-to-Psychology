@@ -19,6 +19,7 @@ whole-brain effective connectivity (EC) estimates,
 relying on a dynamical network model to replicate BOLD signals’ spatio-
 temporal structure, akin to functional connectivity (FC) with 
 lagged correlations. We compared the estimated EC, FC, and SC
-links as features to train classifiers to predict behavioral conditions and group identity. Then, we performed a network-based
+links as features to train classifiers to predict behavioral 
+conditions and group identity. Then, we performed a network-based
 analysis of anatomical connectivity. We demonstrated through a machine-learning approach that EC features were more
 informative than FC and SC solely. 

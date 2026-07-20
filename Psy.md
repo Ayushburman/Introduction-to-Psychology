@@ -16,7 +16,8 @@ control (naive) subjects using magnetic
 resonance imaging (MRI) 
 to acquire structural and functional 
 data during two condi-
-tions, resting-state and meditation (focused attention on breathing).
+tions, resting-state and meditation 
+(focused attention on breathing).
 In this way, we aimed to characterize and distinguish both
 short-term and long-term modifications in the brain’s structure and function. 
 First, to analyze the fMRI data, we calculated

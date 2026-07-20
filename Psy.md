@@ -18,7 +18,7 @@ data during two condi-
 tions, resting-state and
 (focused attention on breathing).
 In this way, we aimed to characterize and distinguish both
-short-term and long-term modifications in the brain’s structure and function. 
+short-term and long-term modifications in the brain’s structure and 
 First, to analyze the fMRI data, we calculated
 whole-brain effective connectivity (EC) estimates,
 relying on a dynamical network model to replicate BOLD signals’ spatio-

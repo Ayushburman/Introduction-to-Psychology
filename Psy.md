@@ -5,13 +5,13 @@ there has been a growing
 scientifi
 characterizing neural correlates 
 of meditation
-Nonetheless, the 
+Nonetheless
 underlying meditation remain elusive.
 In the present work, we investigated 
 meditation-
 changes in functional dynamics 
 and structural connectivity (SC). 
-For this purpose, we scanned 
+For this purpose, we 
 experienced meditators and
 control (naive) subjects using magnetic 
 resonance imaging (MRI) 

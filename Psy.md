@@ -7,7 +7,7 @@ characterizing neural correlates
 of 
 underlying 
 In the present work, we
-changes in 
+change
 and structural
 For this
 experienced meditator

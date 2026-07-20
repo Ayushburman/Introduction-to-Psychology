@@ -6,7 +6,7 @@ there has been a growing
 characterizing neural correlates 
 of 
 Nonetheless
-underlying meditation 
+underlying 
 In the present work, we
 changes in 
 and structural connectivity 

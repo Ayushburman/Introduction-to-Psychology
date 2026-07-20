@@ -9,7 +9,7 @@ Nonetheless
 underlying 
 In the present work, we
 changes in 
-and structural connectivity 
+and structural
 For this
 experienced meditators and
 control (naive) subjects 

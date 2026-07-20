@@ -8,7 +8,6 @@ of meditation
 Nonetheless
 underlying meditation remain elusive.
 In the present work, we
-meditation-
 changes in functional dynamics 
 and structural connectivity (SC). 
 For this purpose, we 

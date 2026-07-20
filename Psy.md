@@ -8,7 +8,7 @@ of
 Nonetheless
 underlying meditation 
 In the present work, we
-changes in functional 
+changes in 
 and structural connectivity 
 For this purpose
 experienced meditators and

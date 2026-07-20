@@ -2,14 +2,14 @@ Abstract
 In the
 
 there has been a growing 
-scientifi
+
 characterizing neural correlates 
-of meditation
+of 
 Nonetheless
 underlying meditation remain 
 In the present work, we
 changes in functional dynamics 
-and structural connectivity (SC). 
+and structural connectivity 
 For this purpose, we 
 experienced meditators and
 control (naive) subjects using magnetic 

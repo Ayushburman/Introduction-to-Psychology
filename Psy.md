@@ -10,7 +10,7 @@ In the present work, we
 changes in 
 and structural
 For this
-experienced meditators and
+experienced meditator
 control (naive) subjects 
 resonance imaging (MRI) 
 to acquire structural and functional 

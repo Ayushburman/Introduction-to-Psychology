@@ -1,7 +1,8 @@
 Abstract
 In the past decades,
 there has been a growing 
-scientific interest in characterizing neural correlates of meditation training.
+scientific interest in 
+characterizing neural correlates of meditation training.
 Nonetheless, the mechanisms underlying meditation remain elusive. In the present work, we investigated meditation-related
 changes in functional dynamics and structural connectivity (SC). For this purpose, we scanned experienced meditators and
 control (naive) subjects using magnetic resonance imaging (MRI) to acquire structural and functional data during two condi-

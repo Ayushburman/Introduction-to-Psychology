@@ -10,9 +10,9 @@ underlying meditation remain
 In the present work, we
 changes in functional dynamics 
 and structural connectivity 
-For this purpose, we 
+For this purpose
 experienced meditators and
-control (naive) subjects using 
+control (naive) subjects 
 resonance imaging (MRI) 
 to acquire structural and functional 
 data during two condi-

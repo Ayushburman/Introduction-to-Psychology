@@ -22,5 +22,6 @@ lagged correlations. We compared the estimated EC, FC, and SC
 links as features to train classifiers to predict behavioral 
 conditions and group identity. Then, we performed a network-based
 analysis of anatomical connectivity. We demonstrated through a 
-machine-learning approach that EC features were more
+machine-learning approach 
+that EC features were more
 informative than FC and SC solely. 

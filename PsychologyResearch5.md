@@ -10,4 +10,3 @@ fdtd
 chgyg
 ghfgf
 httu
-fytyt

@@ -15,5 +15,3 @@ ffygy
 cfct
 dgdgf
 stete
-dtrtr
-k

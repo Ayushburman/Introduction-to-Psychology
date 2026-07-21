@@ -14,4 +14,3 @@ fytyt
 ffygy
 cfct
 dgdgf
-stete

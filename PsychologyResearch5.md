@@ -9,4 +9,3 @@ st
 fdtd
 chgyg
 ghfgf
-httu

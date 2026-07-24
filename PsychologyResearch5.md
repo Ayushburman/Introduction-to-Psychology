@@ -14,5 +14,3 @@ cgfgf
 cgdgdg
 paycholog
 gfgf
-
-sdfer

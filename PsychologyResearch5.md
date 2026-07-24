@@ -12,4 +12,3 @@ drere
 bjnjn
 cgfgf
 cgdgdg
-paycholog

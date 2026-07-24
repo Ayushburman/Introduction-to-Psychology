@@ -10,4 +10,4 @@ abc
 def
 ghi
 hggy
-10                    Integrated circuit (IC) manufacturing transforms raw silicon into complex microchips through hundreds of
+10                    Integrated circuit (IC) manufacturing transforms raw silicon into complex microchips through hundre

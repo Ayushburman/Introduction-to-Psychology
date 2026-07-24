@@ -10,4 +10,4 @@ abc
 def
 ghi
 hggy
-10                    Integrated circuit (IC) manufacturing transforms raw silicon into complex microchips through hundreds of precision steps. Key phases include crystal growth, wafe
+10                    Integrated circuit (IC) manufacturing transforms raw silicon into complex microchips through hundreds of precision steps. Key phases include crystal growth

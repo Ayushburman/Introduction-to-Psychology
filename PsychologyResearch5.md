@@ -10,4 +10,4 @@ abc
 def
 ghi
 hggy
-10                    Integrated circuit (IC) manufacturing transforms raw silicon into 
+10                    Integrated circuit (IC) manufacturing transforms raw silicon

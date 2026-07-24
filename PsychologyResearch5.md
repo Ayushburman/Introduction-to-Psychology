@@ -12,8 +12,7 @@ drere
 bjnjn
 cgfgf
 cgdgdg
-paychology
-fer
+paycholog
 gfgf
 dfdfd
 sdfer

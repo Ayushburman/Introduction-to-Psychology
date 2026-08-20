@@ -5,7 +5,7 @@ there has been a gro
 char
 of 
 
-experienced medit
+experienced 
 to acquire structural and functional 
 data during two
 tions, resting-

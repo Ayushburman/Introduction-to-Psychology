@@ -3,7 +3,7 @@ In the
 
 there has been a growing 
 
-characterizing neural correlates 
+characterizing neural correla
 of 
 underlying 
 In the present work,

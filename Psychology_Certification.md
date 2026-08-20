@@ -1,4 +1,4 @@
-Absolutely. The most important distinction is:
+
 
 “Psychology certification” ≠ “becoming a licensed/registered psychologist.”
 

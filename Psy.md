@@ -1,9 +1,7 @@
 Abstract
 In the
 
-there has been a 
-char
-
+there has been a
 experienced 
 to acquire structural
 data during 

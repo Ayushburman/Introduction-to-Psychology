@@ -5,8 +5,7 @@ there has been a gro
 characterizing neu
 of 
 In
-and 
-For
+and
 experienced meditator
 to acquire structural and functional 
 data during two

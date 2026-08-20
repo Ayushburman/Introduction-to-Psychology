@@ -6,7 +6,7 @@ characterizing neural correla
 of 
 underlying 
 In the present work,
-and structural
+and structu
 For this
 experienced meditator
 control (

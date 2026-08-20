@@ -4,7 +4,7 @@ In the
 there has been a
 experienced 
 to acquire structural
-data during 
+data 
 tions, 
 (focused 
 In this way, we aimed to characterize and distinguish 

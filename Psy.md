@@ -8,7 +8,7 @@ of
 experienced medit
 to acquire structural and functional 
 data during two
-tions, resting-state and
+tions, resting-state
 (focused attention on brea
 In this way, we aimed to characterize and distinguish both
 short-term and long-term modifications in the brain’s structure and 

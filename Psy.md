@@ -10,7 +10,7 @@ data during two
 tions, resting-
 (focused attention
 In this way, we aimed to characterize and distinguish both
-short-term and long-term modifications in the brain’s structure and 
+short-term and long-term modifications in the brain’s structure
 First, to analyze the fMRI data, we calculated
 whole-brain effective connectivity (EC) estimates,
 relying on a dynamical network model to replicate BOLD signals’ spatio-

@@ -6,7 +6,7 @@ there has been a growing
 characterizing neural correlates 
 of 
 underlying 
-In the present work, we
+In the present work,
 and structural
 For this
 experienced meditator

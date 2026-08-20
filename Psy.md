@@ -6,7 +6,7 @@ characterizing neural correla
 of 
 underlying 
 In the present 
-and structu
+and 
 For this
 experienced meditator
 to acquire structural and functional 

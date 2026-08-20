@@ -3,7 +3,6 @@ In the
 
 there has been a gro
 char
-of 
 
 experienced 
 to acquire structural and functional 

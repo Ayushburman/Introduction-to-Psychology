@@ -21,6 +21,7 @@ Level	What you can do	Credential
 
 Important: Completing a Coursera/Udemy/edX psychology course does not make you a licensed psychologist.
 
+
 ⸻
 
 🎯 Goal

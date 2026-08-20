@@ -4,7 +4,6 @@ In the
 there has been a gro
 characterizing neural correla
 of 
-underlying 
 In the 
 and 
 For this

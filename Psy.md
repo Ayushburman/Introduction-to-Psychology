@@ -5,7 +5,7 @@ there has been a
 char
 
 experienced 
-to acquire structural and 
+to acquire structural
 data during 
 tions, 
 (focused 

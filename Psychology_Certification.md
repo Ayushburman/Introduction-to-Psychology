@@ -24,7 +24,7 @@ Important: Completing a Coursera/Udemy/edX psychology course does not make you a
 
 ⸻
 
-🎯 Goal
+>> Goal
 
 The recommended progression is:
 

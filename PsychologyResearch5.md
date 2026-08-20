@@ -10,4 +10,4 @@ abc
 def
 ghi
 hggy
-10                    Integrated circuit
+10                    

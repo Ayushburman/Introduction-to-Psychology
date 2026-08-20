@@ -9,5 +9,3 @@
 abc
 def
 ghi
-hggy
-10                    

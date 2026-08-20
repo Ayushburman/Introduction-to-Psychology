@@ -8,7 +8,7 @@ experienced
 to acquire structural and 
 data during two
 tions, 
-(focused attention
+(focused 
 In this way, we aimed to characterize and distinguish both
 short-term and long-term modifications in the brain’s structure
 First, to analyze the fMRI data, we calculated

@@ -10,7 +10,7 @@ In the present work, we
 and structural
 For this
 experienced meditator
-control (naive) 
+control (
 resonance imaging 
 to acquire structural and functional 
 data during two condi-

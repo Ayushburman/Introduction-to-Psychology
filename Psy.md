@@ -10,7 +10,7 @@ and structu
 For this
 experienced meditator
 control (
-resonance imaging 
+resonance 
 to acquire structural and functional 
 data during two condi-
 tions, resting-state and

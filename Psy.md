@@ -9,7 +9,7 @@ experienced medit
 to acquire structural and functional 
 data during two
 tions, resting-state and
-(focused attention on breathing).
+(focused attention on brea
 In this way, we aimed to characterize and distinguish both
 short-term and long-term modifications in the brain’s structure and 
 First, to analyze the fMRI data, we calculated

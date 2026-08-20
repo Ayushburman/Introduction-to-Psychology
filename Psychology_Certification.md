@@ -800,7 +800,7 @@ Advanced
 
 ⸻
 
-✅ 12-Month Challenge
+ 12-Month Challenge
 
 Month	Focus
 1	Introduction to Psychology

@@ -7,7 +7,7 @@ char
 experienced 
 to acquire structural and functional 
 data during two
-tions, resting-
+tions, 
 (focused attention
 In this way, we aimed to characterize and distinguish both
 short-term and long-term modifications in the brain’s structure

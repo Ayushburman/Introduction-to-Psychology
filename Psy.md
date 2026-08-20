@@ -4,7 +4,7 @@ In the
 there has been a gro
 characterizing neural correla
 of 
-In the 
+In
 and 
 For
 experienced meditator

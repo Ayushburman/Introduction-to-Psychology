@@ -9,7 +9,6 @@ In the present work,
 and structu
 For this
 experienced meditator
-resonance 
 to acquire structural and functional 
 data during two condi-
 tions, resting-state and

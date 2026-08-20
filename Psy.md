@@ -5,7 +5,7 @@ there has been a gro
 char
 
 experienced 
-to acquire structural and functional 
+to acquire structural and 
 data during two
 tions, 
 (focused attention

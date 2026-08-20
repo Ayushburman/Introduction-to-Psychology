@@ -4,8 +4,7 @@ In the
 there has been a gro
 char
 of 
-In
-and
+
 experienced medit
 to acquire structural and functional 
 data during two

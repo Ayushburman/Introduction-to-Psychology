@@ -6,7 +6,7 @@ A beginner can earn university/platform certificates online, but those certifica
 
 Here is a README-style roadmap you can use as a personal learning project:
 
-Psychology Roadmap — Beginner to Professional
+*Psychology Roadmap — Beginner to Professional*
 
 A structured roadmap for someone who is completely new to psychology and wants to progress from basic knowledge → recognized certificates → academic/professional qualification.
 

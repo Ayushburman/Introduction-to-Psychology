@@ -6,7 +6,7 @@ char
 
 experienced 
 to acquire structural and 
-data during two
+data during 
 tions, 
 (focused 
 In this way, we aimed to characterize and distinguish both

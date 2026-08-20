@@ -1,7 +1,5 @@
 
-Based on the list you've provided, which includes many of the most influential works in psychology, here is a guide to five of the most significant research papers. Each summary explains what the study was about, its methodology, and its conclusions, helping you understand why these papers are considered foundational to the field. This selection focuses on five of the most commonly cited "classic" papers.
-
----
+——-
 
 ### Guide to Five Landmark Psychology Research Papers
 

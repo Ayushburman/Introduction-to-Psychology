@@ -4,8 +4,6 @@
 
 A beginner can earn university/platform certificates online, but those certificates do not make you a psychologist or allow you to provide clinical treatment. In India, professional clinical psychology follows regulated educational and registration pathways, including RCI-regulated programmes. 
 
-Here is a README-style roadmap you can use as a personal learning project:
-
 *Psychology Roadmap — Beginner to Professional*
 
 A structured roadmap for someone who is completely new to psychology and wants to progress from basic knowledge → recognized certificates → academic/professional qualification.

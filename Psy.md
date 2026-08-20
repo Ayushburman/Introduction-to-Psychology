@@ -5,7 +5,7 @@ there has been a gro
 characterizing neural correla
 of 
 underlying 
-In the present work,
+In the present 
 and structu
 For this
 experienced meditator

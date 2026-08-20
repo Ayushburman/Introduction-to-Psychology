@@ -6,7 +6,7 @@ characterizing neural correla
 of 
 In the 
 and 
-For this
+For
 experienced meditator
 to acquire structural and functional 
 data during two

@@ -10,7 +10,7 @@ and structu
 For this
 experienced meditator
 to acquire structural and functional 
-data during two condi-
+data during two
 tions, resting-state and
 (focused attention on breathing).
 In this way, we aimed to characterize and distinguish both

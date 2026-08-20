@@ -7,7 +7,7 @@ to acquire structural
 data during 
 tions, 
 (focused 
-In this way, we aimed to characterize and distinguish both
+In this way, we aimed to characterize and distinguish 
 short-term and long-term modifications in the brain’s structure
 First, to analyze the fMRI data, we calculated
 whole-brain effective connectivity (EC) estimates,

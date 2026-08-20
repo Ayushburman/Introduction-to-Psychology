@@ -9,7 +9,6 @@ In the present work,
 and structu
 For this
 experienced meditator
-control (
 resonance 
 to acquire structural and functional 
 data during two condi-

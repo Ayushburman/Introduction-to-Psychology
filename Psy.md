@@ -6,7 +6,7 @@ characterizing neu
 of 
 In
 and
-experienced meditator
+experienced medit
 to acquire structural and functional 
 data during two
 tions, resting-state and

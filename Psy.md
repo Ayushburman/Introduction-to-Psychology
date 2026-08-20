@@ -3,7 +3,7 @@ In the
 
 there has been a
 experienced 
-to acquire structural
+to acquire 
 data 
 tions, 
 (focused 
